@@ -2,7 +2,7 @@ package com.ms.user.services;
 
 import com.ms.user.model.UserModel;
 import com.ms.user.producers.UserProducer;
-import com.ms.user.repository.UserRepository;
+import com.ms.user.repositories.UserRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
